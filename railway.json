@@ -8,7 +8,8 @@
                     "nixPkgs": [
                         "...",
                         "gcc",
-                        "python311"
+                        "python311",
+                        "nodejs_18"
                     ],
                     "aptPkgs": [
                         "build-essential",
