@@ -6,10 +6,10 @@
             "phases": {
                 "setup": {
                     "nixPkgs": [
-                        "...",
+                        "nodejs_18",
+                        "npm-6_x",
                         "gcc",
-                        "python311",
-                        "nodejs_18"
+                        "python311"
                     ],
                     "aptPkgs": [
                         "build-essential",
