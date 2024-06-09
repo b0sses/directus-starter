@@ -17,7 +17,7 @@ This example runs a [Directus](https://directus.io/) instance with minimal confi
 
 - Add the .env vars into the template.
 - Let railway deploy your service, grab the generated domain from the service settings.
-- Login in the panel using the defined ADMIN_EMAIL and ADMIN_PASSWORD used in .env vars
+- Login in the panel using the defined ADMIN_EMAIL and ADMIN_PASSWORD used in .env vars 
 - Use of S3 is optional.
 
 ## 📝 Notes
